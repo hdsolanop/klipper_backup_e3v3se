@@ -3,3 +3,4 @@ adx1_results/belts/*.csv
 adx1_results/vibrations/*.tar.gz
 adxl_results/belts/*.csv
 adxl_results/vibrations/*.tar.gz
+﻿settings.txt
