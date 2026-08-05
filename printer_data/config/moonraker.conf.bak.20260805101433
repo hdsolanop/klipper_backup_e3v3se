@@ -32,7 +32,6 @@ trusted_clients:
     FE80::/10
     ::1/128
     192.168.8.0/24
-    100.64.0.0/10
     mainsail.hernansolano.com
 api_key: e2876d6913da9e2ae595c0d3bfeb4582
 
